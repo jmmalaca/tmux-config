@@ -11,7 +11,12 @@ In this repository, that file, will be store so I can pull it everywhere. ;)
 * Design changes on Panes/Status Bar/Messaging/Window Mode/Window Status/Info
 * Loud or quiet?
 * Modes/Panes/Statusbar/Messages colors
-* List of plugins
+
+* List of plugins used:
+*  tmp
+*  tmux-sensible
+*  tmux-resurrect
+*  tmux-continuum
 
 ### Note
 Remember, after install tmux, the default config file is store on `~/.tmux.conf`
