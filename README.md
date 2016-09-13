@@ -18,6 +18,10 @@ In this repository, that file, will be store so I can pull it everywhere. ;)
 *  tmux-resurrect
 *  tmux-continuum
 
+### Install Tmux
+You can use the script 'build_tmux.sh' available here.
+Just run in your terminal './build_tmux.sh'
+
 ### Note
 Remember, after install tmux, the default config file is store on `~/.tmux.conf`
 
