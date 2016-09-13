@@ -12,7 +12,7 @@ In this repository, that file, will be store so I can pull it everywhere. ;)
 * Loud or quiet?
 * Modes/Panes/Statusbar/Messages colors
 
-* List of plugins used:
+#### List of plugins used:
 *  tmp
 *  tmux-sensible
 *  tmux-resurrect
