@@ -6,8 +6,9 @@ In this repository, that file, will be store so I can pull it everywhere. ;)
 ### Tmux-config content:
 * Remap prefix from 'C-b' to 'C-a'
 * Split panes using | and -
-* Reload config file with bind 'r'
+* Reload config file with bind 'R'
 * Switch panes using Alt-arrow without prefix
+* Resize panes using k(down), i(up), j(left), l(right)
 * Design changes on Panes/Status Bar/Messaging/Window Mode/Window Status/Info
 * Loud or quiet?
 * Modes/Panes/Statusbar/Messages colors
